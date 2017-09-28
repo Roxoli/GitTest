@@ -13,6 +13,8 @@ public class IOCAppChallenge2 {
 		city.cityName2();
 		
 		// git trINING
+		
+		//new bRANCH
 		((FileSystemXmlApplicationContext) ctx).close();
 
 	}
