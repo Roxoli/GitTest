@@ -12,6 +12,7 @@ public class IOCAppChallenge2 {
 		City city = (City) ctx.getBean("mybean");
 		city.cityName2();
 		
+		// git trINING
 		((FileSystemXmlApplicationContext) ctx).close();
 
 	}
